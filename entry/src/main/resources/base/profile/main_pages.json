@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Login/Login",
+    "pages/Start/Start",
+    "pages/Index/Index",
+    "pages/Setting/Setting",
+    "pages/TaskDetail/TaskDetail"
+  ]
+}
