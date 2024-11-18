@@ -16,6 +16,8 @@ export struct ICard {
     .margin({left:15,right:15})
     .borderRadius(8)
     .padding({left:18,right:18})
+    .borderColor("#FFFFFF")
 
   }
 }
+export default ICard

@@ -22,7 +22,7 @@ export  struct IConfirm {
           Text(this.message)
             .fontSize(16)
             .fontColor("#2A2929")
-            .fontWeight(6)
+            .fontWeight(600)
         }
         .width("100%")
         .height(88)
